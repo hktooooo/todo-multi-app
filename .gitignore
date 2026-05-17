@@ -1,0 +1,24 @@
+# Node
+node_modules/
+
+# Laravel
+vendor/
+.env
+
+# Vite
+frontend/node_modules/
+frontend/dist/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker DB
+docker/mysql/data/
+
+# Laravel cache
+src/storage/*.key
+src/bootstrap/cache/*
