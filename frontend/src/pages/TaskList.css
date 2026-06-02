@@ -121,3 +121,15 @@
 .kanban-column h2 {
     margin-bottom: 16px;
 }
+
+.project-item {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 8px;
+}
+
+.drag-handle {
+    cursor: grab;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
